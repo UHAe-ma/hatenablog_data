@@ -1,1 +1,7 @@
-Hello,World! from GitHub!
+<p>Hello,World! from GitHub!</p>
+
+<p>WebAssemblyをhtmlにどう組み込むのだろうという流れでFetchAPIに出会いました。javascriptでファイルを開く(フェッチ)できます。</p>
+<p>開く対象もローカルファイルだけでなくurlからダウンロードもできるので、はてなブログみたいなファイルを保存できないサイトでも有用なのではないでしょうか。</p>
+<p> </p>
+<p>お察しでしょうが、最初の文章はGitHub上に或るファイルのテキストを表示しています。嗚呼、WebAPIって便利。</p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="UHAe-ma/hatenablog_data" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FUHAe-ma%2Fhatenablog_data%2Fblob%2Fmaster%2Fhello.txt" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://github.com/UHAe-ma/hatenablog_data/blob/master/hello.txt">github.com</a></cite></p>
